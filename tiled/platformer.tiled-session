@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "test.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "metroidvania.tsx": {
+            "scaleInDock": 3.8256,
+            "scaleInEditor": 3.703
+        },
+        "test.tmx": {
+            "scale": 5.930902777777777,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 85.1472396229729,
+                "y": 72.0800889877642
+            }
+        }
+    },
+    "last.imagePath": "/home/will/gamedev/platformer/aseprite",
+    "map.height": 18,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 20,
+    "openFiles": [
+        "metroidvania.tsx",
+        "test.tmx"
+    ],
+    "project": "platformer.tiled-project",
+    "recentFiles": [
+        "metroidvania.tsx",
+        "test.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
